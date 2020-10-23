@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--our html code starts here-->
+<html lang="en">
+    <!-- our head tag starts here -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keyword" content="web development,html,css,javascript">
+    <meta name="robot">
+    <title>this is a title</title>
+</head>
+<!-- our body tag starts here -->
+<body>
+    <h1 style="border: 2px solid red;">heading</h1>
+    <H2>heading</H2>
+    <h3>heading</h3>
+    <h4>heading</h4>
+    <h5>heading</h5>
+    <h6>heading</h6>
+    <hr>
+    <p>Lorem ipsum dolor sit. Lorem ipsum dolor, sit <strong>this is strong</strong> consectetur adipisicing elit. Architecto sapiente animi unde <em>this is emphasis</em> reiciendis. Lorem, ipsum dolor4. Lorem ipsum dolor sit amet consectetur adipisicing elit. <b>bold</b>Nam, odio ipsum quae aperiam, perferendis eum similique, cumque fugit <i>italic is here</i>delectus quos mollitia corporis et.
+ </p>
+ <a href="https://google.com">go to google</a><br>
+ <a href="https://facebook.com" target="_blank">go to facebook</a><br>
+ <a href="https://youtube.com" target="_blank" style="border: 2px solid red;">go to youtube</a><br>
+ <a href="/tutorial.html" target="_blank">tutorial</a>
+ <img src="IMG_20150131_165501227" alt="error" style="border: 2px solid red;">
+ <img src="https://source.unsplash.com/random/190x200" alt="error" width="200" height="200"style="border: 2px solid red;">
+</body>
+</html>
